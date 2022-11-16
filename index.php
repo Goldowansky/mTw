@@ -163,6 +163,7 @@
 	.post_text{
 		overflow: hidden;
 		width: 25rem;
+		overflow-wrap: break-word;
 	}
 	div[data-editing="true"] .post_text{
 		display: none;
