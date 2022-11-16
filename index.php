@@ -170,6 +170,10 @@
 		color: #777;
 		margin-bottom: 1rem;
 	}
+	.post_text{
+		overflow: hidden;
+		width: 25rem;
+	}
 	div[data-editing="true"] .post_text{
 		display: none;
 	}
