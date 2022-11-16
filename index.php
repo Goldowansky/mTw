@@ -2,16 +2,6 @@
 	include_once('php/functions.php');
 	
 	check_auth();
-	
-//	$link = db_connect();
-	
-//	$query = "SELECT * FROM users;";
-//	$result = mysqli_query($link, $query);
-//	while ($row = mysqli_fetch_row($result)){
-//		echo $row[0] . " - " . $row[1] . "<br>";
-//	}
-	
-//	mysqli_close($link);
 ?>
 <!DOCTYPE html>
 <html lang="en">
